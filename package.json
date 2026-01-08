@@ -64,7 +64,7 @@ DATABASE_URL = postgresql://postgres.xxx:[VOTRE_MOT_DE_PASSE]@xxx.supabase.co:54
 
 JWT_SECRET = mikrotik_vpn_secret_ultra_secure_2025_changez_moi
 
-TAILSCALE_API_KEY = [tskey-api-k66M5z6XYe11CNTRL-3yUL2g7Y7JFHN2RtnRUaHFbUbcp8AqUpS]
+TAILSCALE_API_KEY = [js]
 
 NODE_ENV = production
 
